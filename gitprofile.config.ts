@@ -129,8 +129,7 @@ const CONFIG = {
       position: 'Research Assistant Intern',
       from: 'May 2023',
       to: 'August 2023',
-      companyLink:
-        'https://www.ars.usda.gov/plains-area/miles-city-mt/larrl/',
+      companyLink: 'https://www.ars.usda.gov/plains-area/miles-city-mt/larrl/',
     },
     {
       company: 'Student Conservation Association / US Forest Service',
@@ -254,10 +253,7 @@ const CONFIG = {
     displayAvatarRing: false,
 
     // Available themes. To remove any theme, exclude from here.
-    themes: [
-      'light',
-      'dark',
-    ],
+    themes: ['light', 'dark'],
   },
 
   // Optional Footer. Supports plain text or HTML.
