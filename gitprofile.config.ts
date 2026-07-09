@@ -120,16 +120,16 @@ const CONFIG = {
   ],
   educations: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'University of Florida',
+      degree: 'M.S., Forest Resources & Conservation',
+      from: '2025',
+      to: '2023',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'Northern Kentucky University',
+      degree: 'B.S., Biological Sciences',
+      from: '2018',
+      to: '2022',
     },
   ],
   publications: [
@@ -164,7 +164,7 @@ const CONFIG = {
   // Track visitor interaction and behavior. https://www.hotjar.com
   hotjar: { id: '', snippetVersion: 6 },
   themeConfig: {
-    defaultTheme: 'lofi',
+    defaultTheme: 'light',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
@@ -185,11 +185,11 @@ const CONFIG = {
   },
 
   // Optional Footer. Supports plain text or HTML.
-  footer: `Made with <a 
-      class="text-primary" href="https://github.com/arifszn/gitprofile"
+  footer: `Made by <a 
+      class="text-primary" href="https://noahweidig.com"
       target="_blank"
       rel="noreferrer"
-    >GitProfile</a> and ❤️`,
+    >Noah</a>`,
 
   enablePWA: true,
 };
