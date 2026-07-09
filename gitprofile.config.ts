@@ -189,7 +189,7 @@ const CONFIG = {
       class="text-primary" href="https://noahweidig.com"
       target="_blank"
       rel="noreferrer"
-    >Noah</a>`,
+    >Noah Weidig</a>`,
 
   enablePWA: true,
 };
